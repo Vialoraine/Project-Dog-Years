@@ -9,5 +9,8 @@ earlyYears = earlyYears * 10.5;
 let laterYears = myAge - 2;
 laterYears = laterYears * 4;
 
+//My age in dog years
+const myAgeInDogYears = earlyYears + laterYears;
+
 //Answers
 console.log(`earlyYears: ${earlyYears} laterYears: ${laterYears}`);
