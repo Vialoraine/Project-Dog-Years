@@ -17,3 +17,4 @@ const myName = 'Loraine'.toLowerCase();
 
 //Answers
 console.log(`earlyYears: ${earlyYears} laterYears: ${laterYears}`);
+console.log(`My name is ${myName}. I am ${myAge} years old in human years which is ${myAgeInDogYears} in dog years.`);
