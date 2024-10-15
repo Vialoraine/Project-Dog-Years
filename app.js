@@ -12,5 +12,8 @@ laterYears = laterYears * 4;
 //My age in dog years
 const myAgeInDogYears = earlyYears + laterYears;
 
+//My name in lowercase
+const myName = 'Loraine'.toLowerCase();
+
 //Answers
 console.log(`earlyYears: ${earlyYears} laterYears: ${laterYears}`);
